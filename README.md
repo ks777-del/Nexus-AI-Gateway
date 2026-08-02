@@ -115,19 +115,6 @@ API Key  : sk_nexus
 npm install -g nexus-ai-gateway
 ```
 
-### Install from Source
-
-```bash
-# Clone
-git clone https://github.com/ks777-del/Nexus-AI-Gateway.git
-
-# Enter the package directory
-cd Nexus-AI-Gateway/nexus-omni
-
-# Install globally (no build needed — dist is pre-compiled)
-npm install -g . --ignore-scripts
-```
-
 ### Verify Installation
 
 ```bash
