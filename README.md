@@ -287,7 +287,7 @@ Contributions are welcome! Please open an issue or pull request on [GitHub](http
 
 ## 📄 License
 
-MIT License © 2025 [Kshitij Singh](https://github.com/ks777-del)
+MIT License © 2026 [Kshitij Singh](https://github.com/ks777-del)
 
 ---
 
