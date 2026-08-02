@@ -76,13 +76,6 @@
 npm install -g nexus-ai-gateway
 ```
 
-> **Or install from source:**
-> ```bash
-> git clone https://github.com/ks777-del/Nexus-AI-Gateway.git
-> cd Nexus-AI-Gateway/nexus-omni
-> npm install -g . --ignore-scripts
-> ```
-
 ### 2. Run
 
 ```bash
